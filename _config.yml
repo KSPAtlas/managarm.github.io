@@ -7,6 +7,7 @@ description: >
 baseurl: "/managarm.github.io" # the subpath of your site, e.g. /blog
 url: "http://managarm.org"
 github_username: managarm
+theme: jekyll-theme-minima
 
 # Build settings.
 markdown: kramdown
