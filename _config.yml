@@ -9,6 +9,9 @@ url: "http://managarm.org"
 github_username: managarm
 theme: minima
 
+minima:
+    skin: dark
+
 # Build settings.
 markdown: kramdown
 kramdown:
