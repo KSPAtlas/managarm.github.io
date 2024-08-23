@@ -4,7 +4,7 @@ title: The Managarm Project
 description: >
     Managarm is a pragmatic microkernel-based OS with fully asynchronous
     I/O.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/managarm.github.io" # the subpath of your site, e.g. /blog
 url: "http://managarm.org"
 github_username: managarm
 
